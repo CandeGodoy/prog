@@ -1,0 +1,9 @@
+def ordenamiento(lista):
+  n=len(lista)
+  for i in range(0,n-1):
+    for j in range(i+1,n):
+      if (lista[j]<lista[i]):
+        aux=lista[j]
+        lista[j]=lista[i]
+        lista[i]=aux
+    return lista
