@@ -1,3 +1,0 @@
-3500;Garcia;Marcelo;2;5;PRIMERO
-2400;Pato;Miriam Alejandra;2;2;AMBOS
-4600;Suarez;Joaquin;8;1;SEGUNDO

@@ -1,2 +1,0 @@
-1000;Perez;Juan;5;8
-5600;Godoy;Maria Candela;10;10

@@ -1,5 +1,0 @@
-1000;perez;juan;5;8
-3500;Garcia;Marcelo;2;5
-2400;pato;Miriam Alejandra;2;2
-5600;Godoy;Maria candela;10;10
-4600;Suarez;Joaquin;8;1
