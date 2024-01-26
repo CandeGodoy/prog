@@ -1,0 +1,23 @@
+2618;Adhesivo Vini.Sta Color/Fluo30;Yerba Buena/Marcos Paz;Tucumán;28.22
+7777;Adhesivo Vini.Sta Color/Fluo30;Yerba Buena/Marcos Paz;Tucumán;1
+7777;Adhesivo Vini.Sta Color/Fluo30;Yerba Buena/Marcos Paz;Tucumán;5
+7777;Adhesivo Vini.Sta Color/Fluo30;Yerba Buena/Marcos Paz;Tucumán;1000
+7777;Adhesivo Vini.Sta Color/Fluo30;Yerba Buena/Marcos Paz;Tucumán;200
+2618;Arcilla Crealina/Sifap 300Gr;San Carlos de Bariloche;Río Negro;61.33
+2618;Apretapapeles Cromado 31 Mm Sdi;Florencio Varela;Buenos Aires;10.96
+2618;Block Esp.A4 80 H.Lider;Ciudadela;Buenos Aires;110.65
+2618;Bastidor Entelado 50 * 100;El Palomar;Buenos Aires;831.45
+2618;Broche Nº 23/8 *1000 Eagle/Dol;La Banda;Santiago del Estero;126.19
+8222222;Cola Para Isopor (Telg)Acrilex;Mar del Plata;Buenos Aires;103.22
+2618;Acuarela * 12 Pelikan Infantil;Mar del Plata;Buenos Aires;170.68
+2618;Adhesivo Vinilico Sta 5Kg;Gualeguaychú;Entre Ríos;1190.47
+1070424;Broche Nº 23/15 X 1000 Mit;Santa Fe;Santa Fe;401.11
+1070424;Alfiler Cabeza Color X 50 Sifa;Quilmes;Buenos Aires;31.82
+8222222;Brillantina Miniglass 20 Unid;Ciudadela;Buenos Aires;948.72
+1070424;Roller Uni-Ball Eye Ub 157-150;Bosques;Buenos Aires;222.60
+1070424;bastidor Entelado 100*100;Necochea;Buenos Aires;1647.42
+8222222;Acetato Rollo 10*0.45 Mac;Gregorio de Laferrere;Buenos Aires;265.96
+8222222;Adhesivo Silicona Mi Silicona*100;Zárate;Buenos Aires;118.77
+2618;Adhesivo Glitter Pelikan 60 Gr;Virrey del Pino;Buenos Aires;154.52
+1070424;Bolígrafo Parker Prem.88492/95/88506;Trelew;Chubut;2289.77
+1070424;Boligrafo Simball Flow 1000;San Ramón de la Nueva Orán;Salta;17.62
