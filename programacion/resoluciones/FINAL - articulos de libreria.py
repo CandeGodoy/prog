@@ -23,7 +23,7 @@ try:
         lista =list(articulos[clave])
         ordenada = sorted(lista,key=lambda x:x[2],reverse=True)
         cantidad = len(valor)
-        suma=sumar_precios(valor)
+        suma=sum(col[2] for col in ordenada)
              
         print("Precio maximo: ",ordenada[0][2],"-","Localidad: ",ordenada[0][0],"-","Provincia: ",ordenada[0][1])
         print("Precio minimo: ",ordenada[-1][2],"-","Localidad: ",ordenada[-1][0],"-","Provincia: ",ordenada[-1][1])

@@ -11,13 +11,13 @@ try:
         linea=";".join(lista)
         
         if int(lista[3])>=4 and int(lista[4])>=4:
-            arch2.writelines(linea+"\n")
+            arch2.write(linea+"\n")
         elif int(lista[3])<4 and int(lista[4])>=4:
-            arch3.writelines(linea+";PRIMERO"+"\n")
+            arch3.write(linea+";PRIMERO"+"\n")
         elif int(lista[3])>=4 and int(lista[4])<4:
-            arch3.writelines(linea+";SEGUNDO"+"\n")
+            arch3.write(linea+";SEGUNDO"+"\n")
         else:
-            arch3.writelines(linea+";AMBOS"+"\n")
+            arch3.write(linea+";AMBOS"+"\n")
     
     
 except FileNotFoundError as mensaje:

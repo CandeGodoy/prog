@@ -40,12 +40,18 @@ try:
     print("\n")        
     print("\t\t\tCOLISIONES")
     print("\tPASAJERO\t    FILA\t\tASIENTO")
-    for o in range(len(ocupadosAsiento)):
-        for co in range(len(ocupadosAsiento)):
-            if ocupadosAsiento[o]==ocupadosAsiento[co] and o != co:
-                colisiones.append([ocupadospersona[co]]+[str(ocupadosAsiento[co][0])]+[ocupadosAsiento[co][1]])           
+    while ocupadosAsiento:
+        elemento = ocupadosAsiento[0]
+        veces = ocupadosAsiento.count(ocupadosAsiento[0]) 
+        for co in range(veces):
+            pos = ocupadosAsiento.index(elemento)
+            colisiones.append([ocupadospersona[pos]]+[str(ocupadosAsiento[pos][0])]+[ocupadosAsiento[pos][1]])
+            ocupadosAsiento.pop(pos)
+            ocupadospersona.pop(pos)
+            
+    ordenada = sorted(colisiones,key=lambda x: int(x[1]))
 
-    for t in colisiones:
+    for t in ordenada:
         for tt in t:
             print(f"{tt:^20}",end="")
         print()
